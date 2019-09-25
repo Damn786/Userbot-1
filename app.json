@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/Damn786/Userbot-1",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-07-24",
-  "success_url": "https://t.me/PaperplaneExtended",
+  "success_url": "https://t.me/CuratorSCrew",
   "stack": "container",
   "env": {
     "API_KEY": {
